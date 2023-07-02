@@ -1,0 +1,29 @@
+JSON in 2 mins
+----------------
+JavaScript Object Notation is a standard text based data format used in web
+development to send and receive the data.
+
+Application: Web Applictions. APIs. Mobile Apps. Gaming APIs. IoT.
+
+Advantages
+----------------
+> Supportd by all programming languages.
+> It can be used on all platforms.
+> It is a lightweight database standard, so data transmission is fast.
+
+Data Types Supported
+----------------------
+> String
+> Number 
+> Arrays
+> Boolean
+> Null
+> Object
+
+Methods: JSON.parse():, JSON.stingify():
+
+and Examples.	
+
+		-----------------------
+			.TaDa.
+		-----------------------
